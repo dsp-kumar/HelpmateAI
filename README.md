@@ -86,18 +86,3 @@ No documentation will be made available for this project since this project only
 - [ ] Add more features to the project.
 - [ ] Add more selectable Vector Store to the project(Pinecone, Weaviate etc).
 
----
-
-## 🛡️ License
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 💬 Contact
-For any queries or feedback, feel free to reach out:
-
-- **Email**: sandy974278@gmail.com
-- **GitHub**: https://github.com/SandeepGitGuy
-- **LinkedIn**: www.linkedin.com/in/sandeepgowda24a319192
-
----
