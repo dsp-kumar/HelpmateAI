@@ -42,31 +42,6 @@ Ensure you have the following installed:
 - Python 3.8+
 - Docker (optional, for containerized deployment)
 
-### Installation
-1. Clone the repo:
-git clone https://github.com/SandeepGitGuy/HelpMate_AI_Project_GenAI_UpGrad_IIITB.git
-
-2. Navigate to the project directory:
-cd HelpMate_AI_Project_GenAI_UpGrad_IIITB
-
-3. Install the required dependencies:
-pip install -r requirements.txt
-
-- Please note: OpenAI API keys are required for the project to function. You can obtain them from the OpenAI website and change the same in the code. We have updated the code and added more models to make it more dynamic in V2 of the project.
-
-4. Run the main file from Jupyter environment:
-"helpmate-ai-upgrad_sandeep_b.ipynb"
-
----
-
-## 📖 Documentation
-No documentation will be made available for this project since this project only uses technologies that already have their own documentation. Please refer to the following links for more information:
-- [ChromaDB](https://docs.trychroma.com/)
-- [PDFplumber](https://pypi.org/project/pdfplumber/0.1.2/)
-- [Sentence Transformes](https://www.sbert.net/docs/)
-- [OpenAI](https://platform.openai.com/docs/)
-
----
 
 ## 🛠️ Challenges/Issues Faced with fixes
 - [Issue #1](For Preprocessing PDF file, many tools like PDFminer, PyPDF2 etc was tried, but they were not suitable for the task. PDFplumber was finally chosen.)
